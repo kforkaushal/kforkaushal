@@ -6,9 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-1f2937?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="YOUR_PORTFOLIO_OR_RESUME_URL"><img src="https://img.shields.io/badge/Resume-Download-16a34a?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"/></a>
+  <a href="mailto:kauahalp2036@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-1f2937?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/kforkaushal"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://kaushal-patil.web.app"><img src="https://img.shields.io/badge/Portfolio-Visit-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://kaushal-patil.web.app/my-resume.pdf"><img src="https://img.shields.io/badge/Resume-Download-16a34a?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"/></a>
 </p>
 
 ---
@@ -29,13 +30,12 @@ I'm looking for a **fresher SDE, Full-Stack, or Mobile App Engineer** role where
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| **[MSBTE Notes & Info](YOUR_LINK)** | Educational platform for Maharashtra diploma and engineering students. 50,000+ active users, 1M+ views. | JavaScript, Node.js, Firebase |
-| **[Quotebook](YOUR_LINK)** | Quote discovery and poster-creation app for web and mobile. | Flutter, Dart, Riverpod |
-| **[PoseMe](YOUR_LINK)** | Camera app that overlays a reference pose so users can match it and take better photos. | Flutter, Dart |
-| **[SplitKing](YOUR_LINK)** | Expense-splitting app with offline-first storage and cloud sync. | Flutter, Riverpod, Isar, Firebase |
-| **[PickAI](YOUR_LINK)** | AI-assisted tool built on modern LLM APIs. | Gemini / Claude APIs |
-
-> Tip: pin these repositories on your profile and add the real links above. Each project should have a short README with a screenshot, a one-line problem statement, and a live link.
+| **[MSBTE Notes & Info](https://github.com/kforkaushal/MSBTE-NOTES-AND-INFO)** · [Live](https://msbtenotes-info.netlify.app) | Educational platform for Maharashtra diploma and engineering students. 50,000+ active users, 1M+ views. | JavaScript, Node.js, Firebase |
+| **[Quotebook](https://github.com/kforkaushal/Quotebook-App)** · [Web](http://quotebook.me/) | Quote discovery and poster-creation app for web and mobile with 1M+ quotes offline. | Flutter, Dart, Riverpod |
+| **[PoseMe](https://github.com/kforkaushal/poseme)** | Camera app that overlays a reference pose so users can match it and take better photos. | Flutter, Dart |
+| **[PickAI](https://github.com/kforkaushal/PickAI)** · [Live](https://pickai.netlify.app/) | AI-assisted news & multi-niche feed platform covering tech, markets, and sports. | JavaScript, REST APIs |
+| **[SmartChat-AI](https://github.com/kforkaushal/SmartChat-AI)** · [Live](https://smart-chat-ai-five.vercel.app) | Conversational AI chatbot assistant featuring typewriter UI and instant chat export. | JavaScript, AI APIs, Vercel |
+| **[SplitKing](https://github.com/kforkaushal)** *(In Dev)* | Expense-splitting mobile app with offline-first storage and pairwise debt simplification. | Flutter, Riverpod, Firebase |
 
 ## Tech Stack
 
@@ -77,7 +77,8 @@ I'm looking for a **fresher SDE, Full-Stack, or Mobile App Engineer** role where
 I'm actively interviewing for fresher roles. The fastest way to reach me is by email, and I'm happy to share a resume or walk through any project.
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL">Email</a> ·
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> ·
-  <a href="YOUR_PORTFOLIO_OR_RESUME_URL">Resume</a>
+  <a href="mailto:kauahalp2036@gmail.com">Email</a> ·
+  <a href="https://linkedin.com/in/kforkaushal">LinkedIn</a> ·
+  <a href="https://kaushal-patil.web.app">Portfolio</a> ·
+  <a href="https://kaushal-patil.web.app/my-resume.pdf">Resume</a>
 </p>
