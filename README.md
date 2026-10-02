@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:kauahalp2036@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-1f2937?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:Kaushalpatil.in@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-1f2937?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://linkedin.com/in/kforkaushal"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://kaushal-patil.web.app"><img src="https://img.shields.io/badge/Portfolio-Visit-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://kaushal-patil.web.app/my-resume.pdf"><img src="https://img.shields.io/badge/Resume-Download-16a34a?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"/></a>
@@ -77,7 +77,7 @@ I'm looking for a **fresher SDE, Full-Stack, or Mobile App Engineer** role where
 I'm actively interviewing for fresher roles. The fastest way to reach me is by email, and I'm happy to share a resume or walk through any project.
 
 <p align="center">
-  <a href="mailto:kauahalp2036@gmail.com">Email</a> ·
+  <a href="mailto:Kaushalpatil.in@gmail.com">Email</a> ·
   <a href="https://linkedin.com/in/kforkaushal">LinkedIn</a> ·
   <a href="https://kaushal-patil.web.app">Portfolio</a> ·
   <a href="https://kaushal-patil.web.app/my-resume.pdf">Resume</a>
