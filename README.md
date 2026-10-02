@@ -65,13 +65,6 @@ I'm looking for a **fresher SDE, Full-Stack, or Mobile App Engineer** role where
 - **Breadth:** Comfortable across web, mobile, and AI integration, and quick to pick up new tools.
 - **Product sense:** I design for the end user first, then pick the stack that serves them.
 
-## GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kforkaushal&show_icons=true&hide_border=true&theme=default" alt="GitHub stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kforkaushal&layout=compact&hide_border=true&theme=default" alt="Top languages"/>
-</p>
-
 ## Let's Connect
 
 I'm actively interviewing for fresher roles. The fastest way to reach me is by email, and I'm happy to share a resume or walk through any project.
